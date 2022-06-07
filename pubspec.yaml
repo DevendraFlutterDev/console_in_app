@@ -1,7 +1,7 @@
 name: console_in_app
 description: This package is for in-app debugging. You can open the console by shaking the phone and see whatever you printed.
 version: 0.0.1
-homepage:
+homepage: https://github.com/DevendraFlutterDev/console_in_app
 
 environment:
   sdk: ">=2.16.2 <3.0.0"

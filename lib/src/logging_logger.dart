@@ -1,8 +1,6 @@
-import 'dart:async';
-import 'dart:collection';
+/**/
 
-import 'log_record.dart';
-import 'logging_level.dart';
+part of console_in_app;
 
 /// Whether to allow fine-grain logging and configuration of loggers in a
 /// hierarchy.

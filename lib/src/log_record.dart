@@ -1,7 +1,6 @@
 import 'dart:async';
 
 import 'logging_level.dart';
-import 'logging_logger.dart';
 
 /// A log entry representation used to propagate information from [LoggingLogger] to
 /// individual handlers.
